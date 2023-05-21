@@ -1,0 +1,15 @@
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\bin\Debug\net7.0\PasswortGenerator.exe
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\bin\Debug\net7.0\PasswortGenerator.deps.json
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\bin\Debug\net7.0\PasswortGenerator.runtimeconfig.json
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\bin\Debug\net7.0\PasswortGenerator.dll
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\bin\Debug\net7.0\PasswortGenerator.pdb
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\PasswortGenerator.csproj.AssemblyReference.cache
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\PasswortGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\PasswortGenerator.AssemblyInfoInputs.cache
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\PasswortGenerator.AssemblyInfo.cs
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\PasswortGenerator.csproj.CoreCompileInputs.cache
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\PasswortGenerator.dll
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\refint\PasswortGenerator.dll
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\PasswortGenerator.pdb
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\PasswortGenerator.genruntimeconfig.cache
+C:\Users\seyed\RiderProjects\PasswortGenerator\PasswortGenerator\obj\Debug\net7.0\ref\PasswortGenerator.dll
